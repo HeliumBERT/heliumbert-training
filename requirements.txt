@@ -12,6 +12,7 @@ evaluate==0.4.5
 filelock==3.19.1
 frozenlist==1.7.0
 fsspec==2025.3.0
+heliumbert @ git+https://github.com/HeliumBERT/heliumbert@5ccf849628c37713c3d7f5716ef4fc940f682f3c
 huggingface-hub==0.34.4
 idna==3.10
 Jinja2==3.1.6

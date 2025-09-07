@@ -1,0 +1,13 @@
+{
+  "include": ["notebooks"],          // or wherever your actual Python code is
+  "exclude": [
+    "**/node_modules",
+    "**/__pycache__",
+    "**/.*",
+    "data",                     // big folder to ignore
+    "datasets",
+    "logs"
+  ],
+  "venvPath": ".",
+  "venv": ".venv"
+}
